@@ -20,7 +20,7 @@ Happy Coding!
   - [About Scrimba](#about-scrimba)
   - [Table of contents](#table-of-contents)
   - [Overview](#overview)
-    - [The challenge](#the-challenge)
+    - [Learning objectives](#learning-objectives)
     - [Screenshot](#screenshot)
     - [Links](#links)
   - [My process](#my-process)
@@ -31,14 +31,26 @@ Happy Coding!
 
 ## Overview
 
-### The challenge
+### Learning objectives
+
+What will be learned while following along with this practice project:
+- for of
+- radio & checkbox inputs
+- getElementsByClassName
+- querySelector
+- classList.remove
+- import/export
+- .includes()
+- .filter()
 
 ### Screenshot
 
+![Screenshot](images/ss.gif)
+
 ### Links
 
-- Solution URL: [Github Repo]()
-- Live Site URL: [Netlify Live Site]()
+- Solution URL: [Github Repo](https://github.com/varonalearns/Meme-Picker)
+- Live Site URL: [Netlify Live Site](https://classy-kataifi-c0fa06.netlify.app)
 
 ## My process
 
@@ -50,8 +62,19 @@ Happy Coding!
 
 ### What I learned
 
+As stated learning objectives, I learned about:
+- for of
+- import/export
+- radio & checkbox inputs
+- querySelector
+- getElementsByClassName
+- classList.remove
+- .includes()
+- .filter()
+
 ### Continued development
 
+In the future, I definitely want to add more features to this project. I have a couple of ideas. Perhaps make a project based on dogs? It is something that I am contemplating, especially if I want to build my skills as a developer.
 
 
 ## Author
